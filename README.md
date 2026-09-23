@@ -9,5 +9,5 @@ Examples of how to use the project.
 
 #Authors
 Mashal Mesfer  
-Hamma
+Hamad Nasser
 Khalifa Mohammed Alkaabi
