@@ -10,5 +10,4 @@ Examples of how to use the project.
 #Authors
 Mashal Mesfer  
 Hamma
-
 Khalifa Mohammed Alkaabi
