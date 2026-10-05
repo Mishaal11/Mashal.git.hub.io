@@ -1,5 +1,5 @@
 #Project Title
-A short description of what this project does and who it’s for.
+Expanse Tracker
 
 #Installation
 Steps to install and run the project.
